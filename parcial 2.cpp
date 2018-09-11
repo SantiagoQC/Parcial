@@ -1,5 +1,5 @@
 /*
-Programa:Calcula desempeño
+Programa:numeros pares e impares
 elaborado por: Santiago Quintero C.
 fecha: 11/09/2018
 */
