@@ -1,5 +1,5 @@
 /*
-Programa:Calcula desempeño
+Programa:Cuadrado de un numero
 elaborado por: Santiago Quintero C.
 fecha: 11/09/2018
 */
