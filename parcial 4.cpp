@@ -1,5 +1,5 @@
 /*
-Programa:Calcula desempeño
+Programa:Cuenta letras
 elaborado por: Santiago Quintero C.
 fecha: 11/09/2018
 */
