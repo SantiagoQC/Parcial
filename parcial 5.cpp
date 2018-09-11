@@ -1,4 +1,8 @@
-
+/*
+Programa:Calcula desempeño
+elaborado por: Santiago Quintero C.
+fecha: 11/09/2018
+*/
 #include <iostream>
 using namespace std;
 void cuadrado(){
